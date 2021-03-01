@@ -2,3 +2,5 @@
 Hands-on practice with git and github
 
 By writing this sentence on the main branch another commit is done.
+
+Another sentence added to create another branch named funwith-git.
