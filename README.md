@@ -6,3 +6,5 @@ By writing this sentence on the main branch another commit is done.
 Another sentence added to create another branch named funwith-git.
 
 This was automatically merged with the main branch with the help of github.
+
+A new sentence in main branch...
