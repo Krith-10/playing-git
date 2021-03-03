@@ -1,0 +1,11 @@
+Install git with the help of
+
+    >https://git-scm.com/downloads
+
+After successful installation 
+
+Open VS code open the folder you work with,
+
+    > git init 
+    Above code intializes git the version control in the working repo/folder.
+    
