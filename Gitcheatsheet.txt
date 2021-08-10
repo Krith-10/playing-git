@@ -9,3 +9,5 @@ Open VS code open the folder you work with,
     > git init 
     Above code intializes git the version control in the working repo/folder.
     
+    Then you should config the system with the help of following commands
+    
